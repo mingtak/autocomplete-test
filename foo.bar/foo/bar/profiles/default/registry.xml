@@ -1,0 +1,15 @@
+<registry>
+
+    <record name="example.dexterityforms.pizzaTypes">
+        <field type="plone.registry.field.Tuple">
+            <title>Pizza types</title>
+            <value_type type="plone.registry.field.TextLine" />
+        </field>
+        <value>
+            <element>Margherita</element>
+            <element>Pepperoni</element>
+            <element>Hawaiian</element>
+        </value>
+    </record>
+
+</registry>

@@ -1,0 +1,16 @@
+README.txt
+setup.cfg
+setup.py
+foo/__init__.py
+foo.bar.egg-info/PKG-INFO
+foo.bar.egg-info/SOURCES.txt
+foo.bar.egg-info/dependency_links.txt
+foo.bar.egg-info/entry_points.txt
+foo.bar.egg-info/namespace_packages.txt
+foo.bar.egg-info/not-zip-safe
+foo.bar.egg-info/paster_plugins.txt
+foo.bar.egg-info/requires.txt
+foo.bar.egg-info/top_level.txt
+foo/bar/__init__.py
+foo/bar/autocomplete.py
+foo/bar/tests.py
